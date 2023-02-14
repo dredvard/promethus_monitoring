@@ -1,6 +1,6 @@
 # promethus_monitoring
 
-This is my home monitoring stack (ya really, for fun).
+This is my home monitoring stack.
 
 It consists of:
 
