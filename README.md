@@ -39,8 +39,10 @@ forget to specify an additional `scrape_interval` in the SNMP job.
 
 This will be based on snmp_generator and importing a MIB file.
 
-This  (link](https://brendonmatheson.com/2021/02/07/step-by-step-guide-to-connecting-prometheus-to-pfsense-via-snmp.html)
+This  [link](https://brendonmatheson.com/2021/02/07/step-by-step-guide-to-connecting-prometheus-to-pfsense-via-snmp.html)
 helped me configure my network
+
+Another good [resource](https://grafana.com/blog/2022/02/01/an-advanced-guide-to-network-monitoring-with-grafana-and-prometheus/)
 
 ## Compose magic
 
